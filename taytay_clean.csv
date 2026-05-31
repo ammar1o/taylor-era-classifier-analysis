@@ -1,0 +1,376 @@
+,album_name,track_name,artist,featuring,spotify_album,duration_ms,explicit,danceability,energy,loudness,acousticness,instrumentalness,valence,tempo,key,mode,key_name,mode_name,key_mode
+0,Taylor Swift,Tim McGraw,Taylor Swift,,Taylor Swift,232106.0,False,0.41,0.35,0.22,0.95,0.75,0.78,76.0,0.0,1.0,C,major,C major
+1,Taylor Swift,Picture To Burn,Taylor Swift,,Taylor Swift,173066.0,False,0.43,0.41,0.13,0.91,0.75,0.8,105.47,2.0,1.0,D,major,D major
+2,Taylor Swift,Teardrops On My Guitar,Taylor Swift,,Taylor Swift,203040.0,False,0.45,0.32,0.25,0.96,0.76,0.48,99.38,5.0,0.0,F,minor,F minor
+3,Taylor Swift,A Place In This World,Taylor Swift,,Taylor Swift,199200.0,False,0.48,0.38,0.14,0.94,0.74,0.79,114.84,9.0,1.0,A,major,A major
+4,Taylor Swift,Cold As You,Taylor Swift,,Taylor Swift,239013.0,False,0.44,0.35,0.21,0.95,0.75,0.78,87.59,0.0,1.0,C,major,C major
+5,Taylor Swift,The Outside,Taylor Swift,,Taylor Swift,207106.0,False,0.44,0.4,0.12,0.93,0.74,0.5,112.35,5.0,0.0,F,minor,F minor
+6,Taylor Swift,Tied Together With A Smile,Taylor Swift,,Taylor Swift,248106.0,False,0.49,0.36,0.15,0.95,0.74,0.8,143.55,4.0,1.0,E,major,E major
+7,Taylor Swift,Stay Beautiful,Taylor Swift,,Taylor Swift,236053.0,False,0.48,0.34,0.23,0.95,0.75,0.5,132.51,8.0,0.0,G#,minor,G# minor
+8,Taylor Swift,Should've Said No,Taylor Swift,,Taylor Swift,242200.0,False,0.38,0.37,0.16,0.95,0.74,0.78,83.35,2.0,1.0,D,major,D major
+9,Taylor Swift,Mary's Song (Oh My My My),Taylor Swift,,Taylor Swift,213080.0,False,0.51,0.38,0.17,0.94,0.75,0.8,147.66,9.0,1.0,A,major,A major
+10,Taylor Swift,Our Song,Taylor Swift,,Taylor Swift,201106.0,False,0.45,0.35,0.22,0.96,0.75,0.78,89.1,9.0,1.0,A,major,A major
+11,Taylor Swift,I'm Only Me When I'm With You,Taylor Swift,,Taylor Swift,213053.0,False,0.47,0.36,0.18,0.95,0.74,0.5,143.55,3.0,0.0,D#,minor,D# minor
+12,Taylor Swift,Invisible,Taylor Swift,,Taylor Swift,203226.0,False,0.44,0.32,0.25,0.97,0.76,0.78,97.51,7.0,1.0,G,major,G major
+13,Taylor Swift,A Perfectly Good Heart,Taylor Swift,,Taylor Swift,220146.0,False,0.44,0.35,0.2,0.97,0.74,0.8,152.0,11.0,1.0,B,major,B major
+14,Taylor Swift,Teardrops On My Guitar (Pop Version),Taylor Swift,,Taylor Swift,179066.0,False,0.43,0.34,0.25,0.94,0.76,0.49,99.38,10.0,0.0,A#,minor,A# minor
+15,The Taylor Swift Holiday Collection,Last Christmas,Taylor Swift,,The Taylor Swift Holiday Collection,208253.0,False,0.5,0.38,0.15,0.94,0.74,0.8,117.45,5.0,1.0,F,major,F major
+16,The Taylor Swift Holiday Collection,Christmases When You Were Mine,Taylor Swift,,The Taylor Swift Holiday Collection,184253.0,False,0.48,0.27,0.39,0.96,0.78,0.8,161.5,7.0,1.0,G,major,G major
+17,The Taylor Swift Holiday Collection,Santa Baby,Taylor Swift,,The Taylor Swift Holiday Collection,158600.0,False,0.45,0.35,0.2,0.95,0.75,0.79,107.67,7.0,1.0,G,major,G major
+18,The Taylor Swift Holiday Collection,Silent Night,Taylor Swift,,The Taylor Swift Holiday Collection,209893.0,False,0.46,0.35,0.19,0.95,0.74,0.79,120.19,2.0,1.0,D,major,D major
+19,The Taylor Swift Holiday Collection,Christmas Must Be Something More,Taylor Swift,,The Taylor Swift Holiday Collection,232146.0,False,0.47,0.36,0.19,0.94,0.75,0.8,123.05,7.0,1.0,G,major,G major
+20,The Taylor Swift Holiday Collection,White Christmas,Taylor Swift,,The Taylor Swift Holiday Collection,154000.0,False,,,,,,,,,,,,
+21,Fearless,Jump Then Fall,Taylor Swift,,Fearless Platinum Edition,237066.0,False,0.4,0.36,0.22,0.94,0.75,0.79,107.67,4.0,1.0,E,major,E major
+22,Fearless,Untouchable,Taylor Swift,,Fearless Platinum Edition,311040.0,False,0.45,0.33,0.26,0.95,0.76,0.78,99.38,9.0,1.0,A,major,A major
+23,Fearless,Forever & Always (Piano Version),Taylor Swift,,Fearless Platinum Edition,267506.0,False,0.44,0.31,0.24,0.95,0.77,0.72,112.35,4.0,1.0,E,major,E major
+24,Fearless,Come In With The Rain,Taylor Swift,,Fearless Platinum Edition,238106.0,False,0.47,0.37,0.17,0.94,0.75,0.8,143.55,7.0,1.0,G,major,G major
+25,Fearless,SuperStar,Taylor Swift,,Fearless Platinum Edition,261453.0,False,0.45,0.33,0.24,0.96,0.76,0.76,86.13,2.0,1.0,D,major,D major
+26,Fearless,The Other Side Of The Door,Taylor Swift,,Fearless Platinum Edition,237600.0,False,0.47,0.38,0.17,0.94,0.75,0.81,161.5,4.0,1.0,E,major,E major
+27,Fearless,Fearless,Taylor Swift,,Fearless Platinum Edition,242000.0,False,0.43,0.35,0.23,0.94,0.76,0.49,99.38,5.0,0.0,F,minor,F minor
+28,Fearless,Fifteen,Taylor Swift,,Fearless Platinum Edition,294346.0,False,0.45,0.35,0.22,0.95,0.75,0.79,95.7,7.0,1.0,G,major,G major
+29,Fearless,Love Story,Taylor Swift,,Fearless Platinum Edition,235280.0,False,0.47,0.4,0.13,0.93,0.74,0.8,117.45,2.0,1.0,D,major,D major
+30,Fearless,Hey Stephen,Taylor Swift,,Fearless Platinum Edition,254320.0,False,0.43,0.32,0.29,0.94,0.77,0.48,77.13,1.0,0.0,C#,minor,C# minor
+31,Fearless,White Horse,Taylor Swift,,Fearless Platinum Edition,234440.0,False,0.44,0.31,0.32,0.96,0.77,0.78,92.29,2.0,1.0,D,major,D major
+32,Fearless,You Belong With Me,Taylor Swift,,Fearless Platinum Edition,231146.0,False,0.46,0.38,0.14,0.94,0.74,0.5,129.2,10.0,0.0,A#,minor,A# minor
+33,Fearless,Breathe,Taylor Swift,Colbie Caillat,Fearless Platinum Edition,263986.0,False,0.51,0.34,0.24,0.95,0.76,0.5,147.66,1.0,0.0,C#,minor,C# minor
+34,Fearless,Tell Me Why,Taylor Swift,,Fearless Platinum Edition,200560.0,False,0.43,0.37,0.18,0.95,0.75,0.79,99.38,7.0,1.0,G,major,G major
+35,Fearless,You're Not Sorry,Taylor Swift,,Fearless Platinum Edition,261800.0,False,0.46,0.37,0.17,0.94,0.75,0.5,136.0,6.0,0.0,F#,minor,F# minor
+36,Fearless,The Way I Loved You,Taylor Swift,,Fearless Platinum Edition,244240.0,False,0.5,0.38,0.13,0.95,0.74,0.8,161.5,9.0,1.0,A,major,A major
+37,Fearless,Forever & Always,Taylor Swift,,Fearless Platinum Edition,225333.0,False,0.43,0.35,0.24,0.93,0.76,0.5,129.2,9.0,0.0,A,minor,A minor
+38,Fearless,The Best Day,Taylor Swift,,Fearless Platinum Edition,245346.0,False,0.5,0.32,0.31,0.95,0.77,0.48,129.2,1.0,0.0,C#,minor,C# minor
+39,Fearless,Change,Taylor Swift,,Fearless Platinum Edition,281053.0,False,0.42,0.38,0.18,0.94,0.74,0.49,95.7,5.0,0.0,F,minor,F minor
+40,Speak Now,Mine,Taylor Swift,,Speak Now (Deluxe Edition),230706.0,False,0.48,0.38,0.18,0.94,0.75,0.8,120.19,2.0,1.0,D,major,D major
+41,Speak Now,Sparks Fly,Taylor Swift,,Speak Now (Deluxe Edition),260933.0,False,0.48,0.39,0.13,0.93,0.74,0.5,114.84,5.0,0.0,F,minor,F minor
+42,Speak Now,Back To December,Taylor Swift,,Speak Now (Deluxe Edition),293026.0,False,0.48,0.33,0.24,0.97,0.76,0.8,143.55,2.0,1.0,D,major,D major
+43,Speak Now,Speak Now,Taylor Swift,,Speak Now (Deluxe Edition),240760.0,False,0.49,0.38,0.18,0.93,0.75,0.8,120.19,7.0,1.0,G,major,G major
+44,Speak Now,Dear John,Taylor Swift,,Speak Now (Deluxe Edition),403920.0,False,0.48,0.34,0.24,0.95,0.75,0.79,117.45,4.0,1.0,E,major,E major
+45,Speak Now,Mean,Taylor Swift,,Speak Now (Deluxe Edition),237733.0,False,0.47,0.36,0.21,0.93,0.75,0.81,161.5,4.0,1.0,E,major,E major
+46,Speak Now,The Story Of Us,Taylor Swift,,Speak Now (Deluxe Edition),265666.0,False,0.51,0.37,0.15,0.95,0.75,0.8,139.67,4.0,1.0,E,major,E major
+47,Speak Now,Never Grow Up,Taylor Swift,,Speak Now (Deluxe Edition),290466.0,False,0.45,0.3,0.32,0.95,0.75,0.8,126.05,9.0,1.0,A,major,A major
+48,Speak Now,Enchanted,Taylor Swift,,Speak Now (Deluxe Edition),352186.0,False,0.5,0.39,0.14,0.94,0.74,0.51,161.5,0.0,0.0,C,minor,C minor
+49,Speak Now,Better Than Revenge,Taylor Swift,,Speak Now (Deluxe Edition),217160.0,False,0.44,0.35,0.22,0.95,0.76,0.8,147.66,2.0,1.0,D,major,D major
+50,Speak Now,Innocent,Taylor Swift,,Speak Now (Deluxe Edition),302253.0,False,0.5,0.37,0.2,0.94,0.75,0.5,136.0,8.0,0.0,G#,minor,G# minor
+51,Speak Now,Haunted,Taylor Swift,,Speak Now (Deluxe Edition),242080.0,False,0.38,0.39,0.14,0.93,0.75,0.78,80.75,9.0,1.0,A,major,A major
+52,Speak Now,Last Kiss,Taylor Swift,,Speak Now (Deluxe Edition),367133.0,False,0.44,0.32,0.27,0.96,0.76,0.5,156.61,10.0,0.0,A#,minor,A# minor
+53,Speak Now,Long Live,Taylor Swift,,Speak Now (Deluxe Edition),317453.0,False,0.43,0.38,0.18,0.93,0.75,0.79,101.33,7.0,1.0,G,major,G major
+54,Speak Now,Ours,Taylor Swift,,Speak Now (Deluxe Edition),237920.0,False,0.43,0.33,0.28,0.94,0.77,0.78,79.51,0.0,1.0,C,major,C major
+55,Speak Now,If This Was A Movie,Taylor Swift,,Speak Now (Deluxe Edition),234546.0,False,0.53,0.38,0.13,0.95,0.74,0.8,147.66,8.0,1.0,G#,major,G# major
+56,Speak Now,Superman,Taylor Swift,,Speak Now (Deluxe Edition),275960.0,False,0.52,0.37,0.16,0.94,0.74,0.8,132.51,9.0,1.0,A,major,A major
+57,Speak Now,Back To December (Acoustic Version),Taylor Swift,,Speak Now (Deluxe Edition),292560.0,False,0.51,0.36,0.17,0.94,0.73,0.8,143.55,9.0,1.0,A,major,A major
+58,Speak Now,Haunted (Acoustic Version),Taylor Swift,,Speak Now (Deluxe Edition),217613.0,False,0.44,0.34,0.17,0.94,0.74,0.5,143.55,5.0,0.0,F,minor,F minor
+59,Speak Now,Mine - Pop Mix,Taylor Swift,,Speak Now (Deluxe Edition),230333.0,False,0.48,0.36,0.23,0.94,0.76,0.8,120.19,2.0,1.0,D,major,D major
+60,Red,State Of Grace,Taylor Swift,,Red (Deluxe Edition),295186.0,False,0.47,0.35,0.2,0.95,0.74,0.8,129.2,8.0,1.0,G#,major,G# major
+61,Red,Red,Taylor Swift,,Red (Deluxe Edition),220826.0,False,0.44,0.36,0.18,0.96,0.75,0.8,126.05,6.0,1.0,F#,major,F# major
+62,Red,Treacherous,Taylor Swift,,Red (Deluxe Edition),240773.0,False,0.43,0.34,0.23,0.96,0.75,0.78,109.96,2.0,1.0,D,major,D major
+63,Red,I Knew You Were Trouble,Taylor Swift,,Red (Deluxe Edition),217973.0,False,0.41,0.34,0.27,0.96,0.76,0.49,103.36,1.0,0.0,C#,minor,C# minor
+64,Red,All Too Well,Taylor Swift,,Red (Deluxe Edition),327893.0,False,0.39,0.34,0.23,0.96,0.75,0.78,92.29,7.0,1.0,G,major,G major
+65,Red,22,Taylor Swift,,Red (Deluxe Edition),230133.0,False,0.39,0.35,0.26,0.95,0.76,0.79,103.36,2.0,1.0,D,major,D major
+66,Red,I Almost Do,Taylor Swift,,Red (Deluxe Edition),242573.0,False,0.49,0.31,0.31,0.96,0.77,0.8,143.55,11.0,1.0,B,major,B major
+67,Red,We Are Never Ever Getting Back Together,Taylor Swift,,Red (Deluxe Edition),191880.0,False,0.36,0.33,0.3,0.95,0.77,0.78,86.13,7.0,1.0,G,major,G major
+68,Red,Stay Stay Stay,Taylor Swift,,Red (Deluxe Edition),204826.0,False,0.46,0.35,0.22,0.94,0.75,0.79,99.38,0.0,1.0,C,major,C major
+69,Red,The Last Time,Taylor Swift,Gary Lightbody,Red (Deluxe Edition),298293.0,False,0.46,0.34,0.2,0.97,0.75,0.75,93.96,2.0,1.0,D,major,D major
+70,Red,Holy Ground,Taylor Swift,,Red (Deluxe Edition),201853.0,False,0.52,0.33,0.25,0.95,0.76,0.5,156.61,4.0,0.0,E,minor,E minor
+71,Red,Sad Beautiful Tragic,Taylor Swift,,Red (Deluxe Edition),283680.0,False,0.45,0.3,0.34,0.96,0.78,0.78,129.2,7.0,1.0,G,major,G major
+72,Red,The Lucky One,Taylor Swift,,Red (Deluxe Edition),240133.0,False,0.43,0.32,0.29,0.95,0.76,0.79,117.45,11.0,1.0,B,major,B major
+73,Red,Everything Has Changed,Taylor Swift,Ed Sheeran,Red (Deluxe Edition),243933.0,False,0.45,0.33,0.25,0.96,0.76,0.5,161.5,10.0,0.0,A#,minor,A# minor
+74,Red,Starlight,Taylor Swift,,Red (Deluxe Edition),217826.0,False,0.46,0.35,0.25,0.94,0.76,0.8,126.05,11.0,1.0,B,major,B major
+75,Red,Begin Again,Taylor Swift,,Red (Deluxe Edition),237613.0,False,0.41,0.34,0.26,0.95,0.76,0.8,156.61,2.0,1.0,D,major,D major
+76,Red,The Moment I Knew,Taylor Swift,,Red (Deluxe Edition),285560.0,False,0.46,0.36,0.23,0.93,0.76,0.8,126.05,7.0,1.0,G,major,G major
+77,Red,Come Back...Be Here,Taylor Swift,,Red (Deluxe Edition),222706.0,False,0.52,0.35,0.2,0.96,0.74,0.8,161.5,11.0,1.0,B,major,B major
+78,Red,Girl At Home,Taylor Swift,,Red (Deluxe Edition),220320.0,False,0.48,0.33,0.27,0.96,0.76,0.49,126.05,0.0,0.0,C,minor,C minor
+79,Red,Treacherous (Original Demo Recording),Taylor Swift,,Red (Deluxe Edition),239720.0,False,0.45,0.31,0.25,0.96,0.76,0.77,109.96,2.0,1.0,D,major,D major
+80,Red,Red (Original Demo Recording),Taylor Swift,,Red (Deluxe Edition),226280.0,False,0.43,0.36,0.23,0.94,0.76,0.78,83.35,4.0,1.0,E,major,E major
+81,Red,State Of Grace (Acoustic Version),Taylor Swift,,Red (Deluxe Edition),323080.0,False,0.42,0.24,0.47,0.97,0.8,0.66,99.38,2.0,1.0,D,major,D major
+82,1989,Welcome To New York,Taylor Swift,,1989 (Deluxe Edition),212600.0,False,0.47,0.33,0.27,0.96,0.75,0.79,117.45,7.0,1.0,G,major,G major
+83,1989,Blank Space,Taylor Swift,,1989 (Deluxe Edition),231826.0,False,0.42,0.32,0.29,0.96,0.76,0.48,95.7,5.0,0.0,F,minor,F minor
+84,1989,Style,Taylor Swift,,1989 (Deluxe Edition),231000.0,False,0.37,0.34,0.25,0.96,0.75,0.78,95.7,9.0,1.0,A,major,A major
+85,1989,Out Of The Woods,Taylor Swift,,1989 (Deluxe Edition),235800.0,False,0.41,0.33,0.25,0.96,0.75,0.79,123.05,0.0,1.0,C,major,C major
+86,1989,All You Had To Do Was Stay,Taylor Swift,,1989 (Deluxe Edition),193293.0,False,0.42,0.34,0.28,0.95,0.76,0.49,97.51,0.0,0.0,C,minor,C minor
+87,1989,Shake It Off,Taylor Swift,,1989 (Deluxe Edition),219200.0,False,0.48,0.34,0.24,0.96,0.76,0.8,161.5,2.0,1.0,D,major,D major
+88,1989,I Wish You Would,Taylor Swift,,1989 (Deluxe Edition),207440.0,False,0.41,0.35,0.22,0.96,0.76,0.79,117.45,0.0,1.0,C,major,C major
+89,1989,Bad Blood,Taylor Swift,,1989 (Deluxe Edition),211933.0,False,0.44,0.31,0.28,0.96,0.76,0.79,112.35,11.0,1.0,B,major,B major
+90,1989,Wildest Dreams,Taylor Swift,,1989 (Deluxe Edition),220440.0,False,0.44,0.31,0.27,0.97,0.76,0.48,136.0,8.0,0.0,G#,minor,G# minor
+91,1989,How You Get The Girl,Taylor Swift,,1989 (Deluxe Edition),247533.0,False,0.47,0.34,0.26,0.96,0.75,0.49,120.19,0.0,0.0,C,minor,C minor
+92,1989,This Love,Taylor Swift,,1989 (Deluxe Edition),250093.0,False,0.45,0.33,0.25,0.97,0.75,0.8,143.55,4.0,1.0,E,major,E major
+93,1989,I Know Places,Taylor Swift,,1989 (Deluxe Edition),195706.0,False,0.41,0.34,0.26,0.96,0.76,0.79,107.67,0.0,1.0,C,major,C major
+94,1989,Clean,Taylor Swift,,1989 (Deluxe Edition),271000.0,False,0.45,0.3,0.33,0.96,0.77,0.74,103.36,4.0,1.0,E,major,E major
+95,1989,Wonderland,Taylor Swift,,1989 (Deluxe Edition),245560.0,False,0.41,0.34,0.22,0.97,0.75,0.49,123.05,3.0,0.0,D#,minor,D# minor
+96,1989,You Are In Love,Taylor Swift,,1989 (Deluxe Edition),267106.0,False,0.43,0.31,0.28,0.97,0.77,0.7,112.35,9.0,1.0,A,major,A major
+97,1989,New Romantics,Taylor Swift,,1989 (Deluxe Edition),230466.0,False,0.45,0.36,0.22,0.95,0.75,0.5,123.05,0.0,0.0,C,minor,C minor
+98,1989,I Know Places - Voice Memo,Taylor Swift,,1989 (Deluxe Edition),216333.0,False,,,,,,,,,,,,
+99,1989,I Wish You Would - Voice Memo,Taylor Swift,,1989 (Deluxe Edition),107133.0,False,,,,,,,,,,,,
+100,1989,Blank Space - Voice Memo,Taylor Swift,,1989 (Deluxe Edition),131186.0,False,,,,,,,,,,,,
+101,reputation,...Ready For It?,Taylor Swift,,reputation,208186.0,False,0.45,0.31,0.33,0.95,0.77,0.81,161.5,4.0,1.0,E,major,E major
+102,reputation,End Game,Taylor Swift,"Ed Sheeran, Future",reputation,244826.0,False,0.5,0.31,0.31,0.97,0.78,0.79,105.47,2.0,1.0,D,major,D major
+103,reputation,I Did Something Bad,Taylor Swift,,reputation,238253.0,False,0.39,0.32,0.3,0.96,0.76,0.78,83.35,10.0,1.0,A#,major,A# major
+104,reputation,Don't Blame Me,Taylor Swift,,reputation,236413.0,False,0.35,0.34,0.23,0.96,0.74,0.77,68.0,9.0,1.0,A,major,A major
+105,reputation,Delicate,Taylor Swift,,reputation,232253.0,False,0.4,0.27,0.42,0.97,0.79,0.46,95.7,0.0,0.0,C,minor,C minor
+106,reputation,Look What You Made Me Do,Taylor Swift,,reputation,211853.0,False,0.46,0.33,0.3,0.94,0.77,0.8,129.2,9.0,1.0,A,major,A major
+107,reputation,So It Goes...,Taylor Swift,,reputation,227906.0,False,0.38,0.33,0.27,0.97,0.76,0.77,74.9,4.0,1.0,E,major,E major
+108,reputation,Gorgeous,Taylor Swift,,reputation,209680.0,False,0.42,0.28,0.36,0.97,0.78,0.79,123.05,0.0,1.0,C,major,C major
+109,reputation,Getaway Car,Taylor Swift,,reputation,233626.0,False,0.47,0.33,0.28,0.96,0.76,0.81,172.27,1.0,1.0,C#,major,C# major
+110,reputation,King Of My Heart,Taylor Swift,,reputation,214320.0,False,0.39,0.31,0.33,0.96,0.77,0.79,109.96,0.0,1.0,C,major,C major
+111,reputation,Dancing With Our Hands Tied,Taylor Swift,,reputation,211506.0,False,0.48,0.31,0.3,0.97,0.76,0.5,161.5,3.0,0.0,D#,minor,D# minor
+112,reputation,Dress,Taylor Swift,,reputation,230373.0,False,0.46,0.29,0.39,0.95,0.78,0.49,120.19,0.0,0.0,C,minor,C minor
+113,reputation,This Is Why We Can't Have Nice Things,Taylor Swift,,reputation,207133.0,False,0.45,0.35,0.27,0.93,0.76,0.51,161.5,0.0,0.0,C,minor,C minor
+114,reputation,Call It What You Want,Taylor Swift,,reputation,203506.0,False,0.44,0.28,0.38,0.95,0.78,0.49,109.96,9.0,0.0,A,minor,A minor
+115,reputation,New Year's Day,Taylor Swift,,reputation,235466.0,False,0.51,0.23,0.46,0.97,0.82,0.67,184.57,0.0,1.0,C,major,C major
+116,Lover,I Forgot That You Existed,Taylor Swift,,Lover,170640.0,False,0.43,0.26,0.34,0.97,0.77,0.49,129.2,5.0,0.0,F,minor,F minor
+117,Lover,Cruel Summer,Taylor Swift,,Lover,178426.0,False,0.4,0.33,0.25,0.96,0.76,0.49,112.35,9.0,0.0,A,minor,A minor
+118,Lover,Lover,Taylor Swift,,Lover,221306.0,False,0.47,0.34,0.23,0.96,0.75,0.78,103.36,7.0,1.0,G,major,G major
+119,Lover,The Man,Taylor Swift,,Lover,190360.0,False,0.44,0.33,0.27,0.96,0.75,0.79,109.96,7.0,1.0,G,major,G major
+120,Lover,The Archer,Taylor Swift,,Lover,211240.0,False,0.43,0.29,0.28,0.98,0.77,0.38,123.05,0.0,0.0,C,minor,C minor
+121,Lover,I Think He Knows,Taylor Swift,,Lover,173386.0,False,0.45,0.29,0.34,0.97,0.77,0.46,99.38,10.0,0.0,A#,minor,A# minor
+122,Lover,Miss Americana & The Heartbreak Prince,Taylor Swift,,Lover,234146.0,False,0.53,0.29,0.37,0.95,0.78,0.8,152.0,2.0,1.0,D,major,D major
+123,Lover,Paper Rings,Taylor Swift,,Lover,222400.0,False,0.46,0.31,0.34,0.96,0.77,0.79,103.36,4.0,1.0,E,major,E major
+124,Lover,Cornelia Street,Taylor Swift,,Lover,287266.0,False,0.4,0.31,0.31,0.96,0.78,0.75,101.33,0.0,1.0,C,major,C major
+125,Lover,Death By A Thousand Cuts,Taylor Swift,,Lover,198533.0,False,0.44,0.31,0.28,0.96,0.77,0.79,126.05,11.0,1.0,B,major,B major
+126,Lover,London Boy,Taylor Swift,,Lover,190240.0,False,0.47,0.29,0.34,0.96,0.78,0.48,156.61,6.0,0.0,F#,minor,F# minor
+127,Lover,Soon You'll Get Better,Taylor Swift,The Chicks,Lover,201586.0,False,0.44,0.28,0.35,0.97,0.79,0.7,105.47,7.0,1.0,G,major,G major
+128,Lover,False God,Taylor Swift,,Lover,200306.0,False,0.44,0.23,0.49,0.98,0.81,0.63,79.51,11.0,1.0,B,major,B major
+129,Lover,You Need To Calm Down,Taylor Swift,,Lover,171360.0,False,0.46,0.33,0.29,0.95,0.76,0.81,172.27,2.0,1.0,D,major,D major
+130,Lover,Afterglow,Taylor Swift,,Lover,223293.0,False,0.46,0.27,0.37,0.98,0.77,0.75,112.35,11.0,1.0,B,major,B major
+131,Lover,ME!,Taylor Swift,"Brendon Urie, Panic! At The Disco",Lover,193000.0,False,0.38,0.35,0.25,0.94,0.75,0.49,90.67,0.0,0.0,C,minor,C minor
+132,Lover,It's Nice To Have A Friend,Taylor Swift,,Lover,150440.0,False,0.54,0.26,0.38,0.97,0.8,0.45,143.55,10.0,0.0,A#,minor,A# minor
+133,Lover,Daylight,Taylor Swift,,Lover,293453.0,False,0.44,0.31,0.23,0.97,0.75,0.7,99.38,7.0,1.0,G,major,G major
+134,folklore,the 1,Taylor Swift,,folklore (deluxe version),210240.0,True,0.49,0.27,0.38,0.97,0.79,0.76,143.55,0.0,1.0,C,major,C major
+135,folklore,cardigan,Taylor Swift,,folklore (deluxe version),239560.0,False,0.42,0.31,0.27,0.96,0.76,0.43,129.2,5.0,0.0,F,minor,F minor
+136,folklore,the last great american dynasty,Taylor Swift,,folklore (deluxe version),231000.0,True,0.49,0.28,0.36,0.98,0.77,0.77,147.66,7.0,1.0,G,major,G major
+137,folklore,exile,Taylor Swift,Bon Iver,folklore (deluxe version),285640.0,False,0.46,0.33,0.22,0.95,0.75,0.48,156.61,6.0,0.0,F#,minor,F# minor
+138,folklore,my tears ricochet,Taylor Swift,,folklore (deluxe version),255893.0,False,0.47,0.31,0.27,0.97,0.76,0.73,129.2,0.0,1.0,C,major,C major
+139,folklore,mirrorball,Taylor Swift,,folklore (deluxe version),208973.0,False,0.42,0.31,0.24,0.97,0.75,0.71,112.35,9.0,1.0,A,major,A major
+140,folklore,seven,Taylor Swift,,folklore (deluxe version),208906.0,False,0.4,0.29,0.37,0.96,0.78,0.75,92.29,4.0,1.0,E,major,E major
+141,folklore,august,Taylor Swift,,folklore (deluxe version),261920.0,False,0.39,0.34,0.21,0.96,0.75,0.46,120.19,0.0,0.0,C,minor,C minor
+142,folklore,this is me trying,Taylor Swift,,folklore (deluxe version),195106.0,False,0.43,0.32,0.23,0.98,0.75,0.72,136.0,4.0,1.0,E,major,E major
+143,folklore,illicit affairs,Taylor Swift,,folklore (deluxe version),190893.0,False,0.45,0.3,0.31,0.97,0.76,0.49,123.05,10.0,0.0,A#,minor,A# minor
+144,folklore,invisible string,Taylor Swift,,folklore (deluxe version),252880.0,False,0.42,0.26,0.45,0.97,0.8,0.76,112.35,3.0,1.0,D#,major,D# major
+145,folklore,mad woman,Taylor Swift,,folklore (deluxe version),237266.0,True,0.51,0.31,0.29,0.97,0.76,0.45,143.55,5.0,0.0,F,minor,F minor
+146,folklore,epiphany,Taylor Swift,,folklore (deluxe version),289746.0,False,0.41,0.28,0.35,0.97,0.78,0.4,123.05,8.0,0.0,G#,minor,G# minor
+147,folklore,betty,Taylor Swift,,folklore (deluxe version),294520.0,True,0.43,0.34,0.22,0.95,0.75,0.79,95.7,0.0,1.0,C,major,C major
+148,folklore,peace,Taylor Swift,,folklore (deluxe version),234000.0,True,0.46,0.27,0.37,0.96,0.81,0.46,143.55,0.0,0.0,C,minor,C minor
+149,folklore,hoax,Taylor Swift,,folklore (deluxe version),220040.0,False,0.41,0.25,0.41,0.97,0.82,0.38,117.45,0.0,0.0,C,minor,C minor
+150,folklore,the lakes,Taylor Swift,,folklore (deluxe version),211813.0,False,0.41,0.3,0.29,0.97,0.76,0.46,112.35,1.0,0.0,C#,minor,C# minor
+151,evermore,willow,Taylor Swift,,evermore (deluxe version),214706.0,False,0.49,0.31,0.32,0.95,0.78,0.77,166.71,9.0,1.0,A,major,A major
+152,evermore,champagne problems,Taylor Swift,,evermore (deluxe version),244000.0,True,0.5,0.31,0.26,0.96,0.77,0.75,172.27,0.0,1.0,C,major,C major
+153,evermore,gold rush,Taylor Swift,,evermore (deluxe version),185320.0,True,0.47,0.29,0.31,0.97,0.77,0.71,152.0,9.0,1.0,A,major,A major
+154,evermore,'tis the damn season,Taylor Swift,,evermore (deluxe version),229840.0,False,0.53,0.31,0.31,0.96,0.77,0.45,147.66,5.0,0.0,F,minor,F minor
+155,evermore,tolerate it,Taylor Swift,,evermore (deluxe version),245440.0,True,0.47,0.28,0.33,0.97,0.79,0.71,152.0,9.0,1.0,A,major,A major
+156,evermore,"no body, no crime",Taylor Swift,HAIM,evermore (deluxe version),215626.0,False,0.44,0.33,0.29,0.95,0.76,0.48,79.51,10.0,0.0,A#,minor,A# minor
+157,evermore,happiness,Taylor Swift,,evermore (deluxe version),315146.0,True,0.43,0.29,0.34,0.97,0.77,0.71,123.05,11.0,1.0,B,major,B major
+158,evermore,dorothea,Taylor Swift,,evermore (deluxe version),225880.0,False,0.47,0.3,0.29,0.97,0.77,0.74,123.05,4.0,1.0,E,major,E major
+159,evermore,coney island,Taylor Swift,The National,evermore (deluxe version),275320.0,False,0.41,0.28,0.35,0.97,0.79,0.38,117.45,10.0,0.0,A#,minor,A# minor
+160,evermore,ivy,Taylor Swift,,evermore (deluxe version),260440.0,True,0.41,0.3,0.32,0.96,0.78,0.74,92.29,2.0,1.0,D,major,D major
+161,evermore,cowboy like me,Taylor Swift,,evermore (deluxe version),275040.0,True,0.45,0.3,0.32,0.96,0.77,0.71,129.2,4.0,1.0,E,major,E major
+162,evermore,long story short,Taylor Swift,,evermore (deluxe version),215920.0,False,0.42,0.3,0.3,0.97,0.78,0.71,79.51,0.0,1.0,C,major,C major
+163,evermore,marjorie,Taylor Swift,,evermore (deluxe version),257773.0,False,0.46,0.31,0.3,0.96,0.77,0.47,129.2,5.0,0.0,F,minor,F minor
+164,evermore,closure,Taylor Swift,,evermore (deluxe version),180653.0,False,0.47,0.29,0.33,0.97,0.79,0.74,152.0,9.0,1.0,A,major,A major
+165,evermore,evermore,Taylor Swift,Bon Iver,evermore (deluxe version),304106.0,False,0.43,0.3,0.28,0.97,0.78,0.39,112.35,8.0,0.0,G#,minor,G# minor
+166,evermore,right where you left me,Taylor Swift,,evermore (deluxe version),245026.0,False,0.42,0.33,0.21,0.95,0.75,0.4,68.91,5.0,0.0,F,minor,F minor
+167,evermore,it's time to go,Taylor Swift,,evermore (deluxe version),254640.0,False,0.47,0.29,0.36,0.97,0.78,0.75,152.0,7.0,1.0,G,major,G major
+168,Fearless (Taylor's Version),Fearless (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),241591.0,False,0.42,0.35,0.26,0.95,0.76,0.49,101.33,5.0,0.0,F,minor,F minor
+169,Fearless (Taylor's Version),Fifteen (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),294419.0,False,0.45,0.34,0.25,0.95,0.75,0.79,95.7,9.0,1.0,A,major,A major
+170,Fearless (Taylor's Version),Love Story (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),235766.0,False,0.47,0.37,0.18,0.94,0.74,0.8,120.19,9.0,1.0,A,major,A major
+171,Fearless (Taylor's Version),Hey Stephen (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),254254.0,False,,,,,,,,,,,,
+172,Fearless (Taylor's Version),White Horse (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),234515.0,False,0.42,0.3,0.33,0.96,0.76,0.78,93.96,2.0,1.0,D,major,D major
+173,Fearless (Taylor's Version),You Belong With Me (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),231124.0,False,0.43,0.38,0.18,0.93,0.75,0.5,129.2,10.0,0.0,A#,minor,A# minor
+174,Fearless (Taylor's Version),Breathe (Taylor's Version),Taylor Swift,Colbie Caillat,Fearless (Taylor's Version),263377.0,False,,,,,,,,,,,,
+175,Fearless (Taylor's Version),Tell Me Why (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),200575.0,False,,,,,,,,,,,,
+176,Fearless (Taylor's Version),You're Not Sorry (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),261842.0,False,0.45,0.36,0.22,0.93,0.75,0.5,129.2,6.0,0.0,F#,minor,F# minor
+177,Fearless (Taylor's Version),The Way I Loved You (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),243136.0,False,0.45,0.37,0.19,0.93,0.76,0.48,79.51,9.0,0.0,A,minor,A minor
+178,Fearless (Taylor's Version),Forever & Always (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),225328.0,False,0.42,0.37,0.24,0.93,0.76,0.5,129.2,5.0,0.0,F,minor,F minor
+179,Fearless (Taylor's Version),The Best Day (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),245290.0,False,0.48,0.3,0.38,0.96,0.78,0.5,126.05,1.0,0.0,C#,minor,C# minor
+180,Fearless (Taylor's Version),Change (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),279359.0,False,0.45,0.36,0.22,0.94,0.74,0.49,95.7,5.0,0.0,F,minor,F minor
+181,Fearless (Taylor's Version),Jump Then Fall (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),237580.0,False,0.48,0.36,0.23,0.93,0.76,0.81,161.5,9.0,1.0,A,major,A major
+182,Fearless (Taylor's Version),Untouchable (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),312107.0,False,0.47,0.34,0.25,0.94,0.76,0.49,99.38,7.0,0.0,G,minor,G minor
+183,Fearless (Taylor's Version),Forever & Always (Piano Version) [Taylor's Version],Taylor Swift,,Fearless (Taylor's Version),267833.0,False,0.44,0.31,0.27,0.96,0.75,0.79,117.45,1.0,1.0,C#,major,C# major
+184,Fearless (Taylor's Version),Come In With The Rain (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),237338.0,False,0.46,0.37,0.2,0.93,0.75,0.8,136.0,7.0,1.0,G,major,G major
+185,Fearless (Taylor's Version),SuperStar (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),263865.0,False,0.53,0.33,0.28,0.95,0.76,0.81,172.27,2.0,1.0,D,major,D major
+186,Fearless (Taylor's Version),The Other Side Of The Door (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),238443.0,False,0.4,0.38,0.18,0.92,0.75,0.8,109.96,4.0,1.0,E,major,E major
+187,Fearless (Taylor's Version),Today Was A Fairytale (Taylor's Version),Taylor Swift,,Fearless (Taylor's Version),241822.0,False,0.48,0.35,0.23,0.95,0.75,0.8,156.61,7.0,1.0,G,major,G major
+188,Fearless (Taylor's Version),You All Over Me (Taylor's Version) [From The Vault],Taylor Swift,Maren Morris,Fearless (Taylor's Version),220839.0,False,0.51,0.3,0.31,0.97,0.77,0.73,143.55,2.0,1.0,D,major,D major
+189,Fearless (Taylor's Version),Mr. Perfectly Fine (Taylor's Version) [From The Vault],Taylor Swift,,Fearless (Taylor's Version),277591.0,False,0.49,0.37,0.19,0.94,0.75,0.8,136.0,2.0,1.0,D,major,D major
+190,Fearless (Taylor's Version),We Were Happy (Taylor's Version) [From The Vault],Taylor Swift,,Fearless (Taylor's Version),244236.0,False,0.44,0.3,0.3,0.97,0.77,0.73,107.67,0.0,1.0,C,major,C major
+191,Fearless (Taylor's Version),That's When (Taylor's Version) [From The Vault],Taylor Swift,Keith Urban,Fearless (Taylor's Version),189495.0,False,0.45,0.33,0.24,0.96,0.76,0.49,120.19,5.0,0.0,F,minor,F minor
+192,Fearless (Taylor's Version),Don't You (Taylor's Version) [From The Vault],Taylor Swift,,Fearless (Taylor's Version),208608.0,False,0.44,0.28,0.37,0.95,0.78,0.49,101.33,3.0,0.0,D#,minor,D# minor
+193,Fearless (Taylor's Version),Bye Bye Baby (Taylor's Version) [From The Vault],Taylor Swift,,Fearless (Taylor's Version),242157.0,False,0.48,0.33,0.25,0.95,0.76,0.51,161.5,5.0,0.0,F,minor,F minor
+194,Red (Taylor's Version),State Of Grace (Taylor's Version),Taylor Swift,,Red (Taylor's Version),295413.0,False,0.46,0.36,0.19,0.94,0.74,0.8,129.2,8.0,1.0,G#,major,G# major
+195,Red (Taylor's Version),Red (Taylor's Version),Taylor Swift,,Red (Taylor's Version),223093.0,False,0.43,0.33,0.26,0.97,0.75,0.79,126.05,11.0,1.0,B,major,B major
+196,Red (Taylor's Version),Treacherous (Taylor's Version),Taylor Swift,,Red (Taylor's Version),242720.0,False,0.47,0.35,0.2,0.96,0.74,0.79,109.96,9.0,1.0,A,major,A major
+197,Red (Taylor's Version),I Knew You Were Trouble (Taylor's Version),Taylor Swift,,Red (Taylor's Version),219760.0,False,0.4,0.36,0.24,0.94,0.76,0.5,123.05,10.0,0.0,A#,minor,A# minor
+198,Red (Taylor's Version),All Too Well (Taylor's Version),Taylor Swift,,Red (Taylor's Version),329160.0,False,0.4,0.32,0.31,0.96,0.76,0.78,93.96,0.0,1.0,C,major,C major
+199,Red (Taylor's Version),22 (Taylor's Version),Taylor Swift,,Red (Taylor's Version),230960.0,False,0.4,0.33,0.31,0.96,0.77,0.79,103.36,11.0,1.0,B,major,B major
+200,Red (Taylor's Version),I Almost Do (Taylor's Version),Taylor Swift,,Red (Taylor's Version),244586.0,False,0.49,0.32,0.3,0.96,0.76,0.8,143.55,6.0,1.0,F#,major,F# major
+201,Red (Taylor's Version),We Are Never Ever Getting Back Together (Taylor's Version),Taylor Swift,,Red (Taylor's Version),193146.0,False,0.33,0.33,0.28,0.95,0.76,0.78,86.13,7.0,1.0,G,major,G major
+202,Red (Taylor's Version),Stay Stay Stay (Taylor's Version),Taylor Swift,,Red (Taylor's Version),205786.0,False,0.44,0.33,0.28,0.94,0.76,0.79,99.38,0.0,1.0,C,major,C major
+203,Red (Taylor's Version),The Last Time (Taylor's Version),Taylor Swift,Gary Lightbody,Red (Taylor's Version),299080.0,False,0.42,0.34,0.22,0.96,0.75,0.78,93.96,9.0,1.0,A,major,A major
+204,Red (Taylor's Version),Holy Ground (Taylor's Version),Taylor Swift,,Red (Taylor's Version),202960.0,False,0.5,0.31,0.31,0.96,0.76,0.49,156.61,11.0,0.0,B,minor,B minor
+205,Red (Taylor's Version),Sad Beautiful Tragic (Taylor's Version),Taylor Swift,,Red (Taylor's Version),284773.0,False,0.49,0.3,0.35,0.96,0.78,0.8,132.51,11.0,1.0,B,major,B major
+206,Red (Taylor's Version),The Lucky One (Taylor's Version),Taylor Swift,,Red (Taylor's Version),240466.0,False,0.44,0.31,0.33,0.96,0.77,0.78,117.45,11.0,1.0,B,major,B major
+207,Red (Taylor's Version),Everything Has Changed (Taylor's Version),Taylor Swift,Ed Sheeran,Red (Taylor's Version),245426.0,False,0.39,0.34,0.25,0.95,0.75,0.48,80.75,10.0,0.0,A#,minor,A# minor
+208,Red (Taylor's Version),Starlight (Taylor's Version),Taylor Swift,,Red (Taylor's Version),220413.0,False,0.46,0.33,0.29,0.95,0.77,0.8,126.05,11.0,1.0,B,major,B major
+209,Red (Taylor's Version),Begin Again (Taylor's Version),Taylor Swift,,Red (Taylor's Version),238866.0,False,0.45,0.31,0.33,0.95,0.77,0.8,156.61,7.0,1.0,G,major,G major
+210,Red (Taylor's Version),The Moment I Knew (Taylor's Version),Taylor Swift,,Red (Taylor's Version),285280.0,False,0.46,0.33,0.29,0.95,0.76,0.8,126.05,7.0,1.0,G,major,G major
+211,Red (Taylor's Version),Come Back...Be Here (Taylor's Version),Taylor Swift,,Red (Taylor's Version),223333.0,False,0.49,0.36,0.21,0.95,0.75,0.81,161.5,11.0,1.0,B,major,B major
+212,Red (Taylor's Version),Girl At Home (Taylor's Version),Taylor Swift,,Red (Taylor's Version),220520.0,False,0.46,0.31,0.33,0.96,0.76,0.49,126.05,0.0,0.0,C,minor,C minor
+213,Red (Taylor's Version),State Of Grace (Acoustic Version) [Taylor's Version],Taylor Swift,,Red (Taylor's Version),321640.0,False,0.42,0.24,0.49,0.96,0.8,0.74,103.36,2.0,1.0,D,major,D major
+214,Red (Taylor's Version),Ronan (Taylor's Version),Taylor Swift,,Red (Taylor's Version),264253.0,False,0.43,0.29,0.32,0.95,0.75,0.79,117.45,0.0,1.0,C,major,C major
+215,Red (Taylor's Version),Better Man (Taylor's Version) [From The Vault],Taylor Swift,,Red (Taylor's Version),297013.0,False,0.51,0.34,0.21,0.96,0.75,0.8,152.0,4.0,1.0,E,major,E major
+216,Red (Taylor's Version),Nothing New (Taylor's Version) [From The Vault],Taylor Swift,Phoebe Bridgers,Red (Taylor's Version),258812.0,False,0.44,0.29,0.35,0.96,0.78,0.73,99.38,0.0,1.0,C,major,C major
+217,Red (Taylor's Version),Babe (Taylor's Version) [From The Vault],Taylor Swift,,Red (Taylor's Version),224240.0,False,0.39,0.35,0.23,0.95,0.75,0.78,83.35,11.0,1.0,B,major,B major
+218,Red (Taylor's Version),Message In A Bottle (Taylor's Version) [From The Vault],Taylor Swift,,Red (Taylor's Version),225960.0,False,0.42,0.33,0.28,0.95,0.75,0.79,114.84,7.0,1.0,G,major,G major
+219,Red (Taylor's Version),I Bet You Think About Me (Taylor's Version) [From The Vault],Taylor Swift,Chris Stapleton,Red (Taylor's Version),285106.0,True,0.36,0.35,0.21,0.96,0.75,0.79,101.33,0.0,1.0,C,major,C major
+220,Red (Taylor's Version),Forever Winter (Taylor's Version) [From The Vault],Taylor Swift,,Red (Taylor's Version),263533.0,False,0.47,0.36,0.19,0.95,0.74,0.79,114.84,7.0,1.0,G,major,G major
+221,Red (Taylor's Version),Run (Taylor's Version) [From The Vault],Taylor Swift,Ed Sheeran,Red (Taylor's Version),240226.0,False,0.43,0.3,0.31,0.96,0.78,0.76,123.05,3.0,1.0,D#,major,D# major
+222,Red (Taylor's Version),The Very First Night (Taylor's Version) [From The Vault],Taylor Swift,,Red (Taylor's Version),200280.0,False,0.46,0.32,0.31,0.96,0.76,0.79,120.19,7.0,1.0,G,major,G major
+223,Red (Taylor's Version),All Too Well (10 Minute Version) [Taylor's Version] [From The Vault],Taylor Swift,,Red (Taylor's Version),613026.0,True,0.42,0.32,0.27,0.96,0.76,0.77,92.29,0.0,1.0,C,major,C major
+224,Midnights,Lavender Haze,Taylor Swift,,Midnights (The Til Dawn Edition),202395.0,True,0.39,0.25,0.46,0.97,0.81,0.39,97.51,0.0,0.0,C,minor,C minor
+225,Midnights,Maroon,Taylor Swift,,Midnights (The Til Dawn Edition),218270.0,True,0.4,0.31,0.32,0.96,0.77,0.79,107.67,7.0,1.0,G,major,G major
+226,Midnights,Anti-Hero,Taylor Swift,,Midnights (The Til Dawn Edition),200690.0,False,0.41,0.32,0.28,0.96,0.76,0.8,129.2,4.0,1.0,E,major,E major
+227,Midnights,Snow On The Beach,Taylor Swift,Lana Del Rey,Midnights (The Til Dawn Edition),256124.0,True,0.45,0.26,0.41,0.98,0.78,0.35,109.96,9.0,0.0,A,minor,A minor
+228,Midnights,"You're On Your Own, Kid",Taylor Swift,,Midnights (The Til Dawn Edition),194206.0,False,0.45,0.28,0.37,0.97,0.79,0.68,120.19,2.0,1.0,D,major,D major
+229,Midnights,Midnight Rain,Taylor Swift,,Midnights (The Til Dawn Edition),174782.0,False,0.41,0.26,0.42,0.97,0.79,0.4,69.84,0.0,0.0,C,minor,C minor
+230,Midnights,Question...?,Taylor Swift,,Midnights (The Til Dawn Edition),210556.0,True,0.45,0.29,0.36,0.95,0.78,0.79,109.96,0.0,1.0,C,major,C major
+231,Midnights,Vigilante Shit,Taylor Swift,,Midnights (The Til Dawn Edition),164801.0,True,0.4,0.22,0.48,0.97,0.82,0.71,80.75,0.0,1.0,C,major,C major
+232,Midnights,Bejeweled,Taylor Swift,,Midnights (The Til Dawn Edition),194165.0,False,0.39,0.3,0.33,0.96,0.77,0.79,109.96,0.0,1.0,C,major,C major
+233,Midnights,Labyrinth,Taylor Swift,,Midnights (The Til Dawn Edition),247962.0,False,0.41,0.28,0.34,0.96,0.78,0.67,112.35,0.0,1.0,C,major,C major
+234,Midnights,Karma,Taylor Swift,,Midnights (The Til Dawn Edition),204852.0,True,0.4,0.32,0.32,0.95,0.77,0.49,120.19,10.0,0.0,A#,minor,A# minor
+235,Midnights,Sweet Nothing,Taylor Swift,,Midnights (The Til Dawn Edition),188496.0,False,0.43,0.27,0.35,0.96,0.79,0.76,120.19,5.0,1.0,F,major,F major
+236,Midnights,Mastermind,Taylor Swift,,Midnights (The Til Dawn Edition),191039.0,False,0.42,0.22,0.52,0.98,0.82,0.61,126.05,11.0,1.0,B,major,B major
+237,Midnights,The Great War,Taylor Swift,,Midnights (The Til Dawn Edition),240355.0,False,0.4,0.33,0.28,0.95,0.76,0.78,95.7,0.0,1.0,C,major,C major
+238,Midnights,Bigger Than The Whole Sky,Taylor Swift,,Midnights (The Til Dawn Edition),218502.0,False,0.38,0.26,0.41,0.97,0.8,0.33,107.67,8.0,0.0,G#,minor,G# minor
+239,Midnights,Paris,Taylor Swift,,Midnights (The Til Dawn Edition),196258.0,False,0.4,0.29,0.34,0.96,0.78,0.76,117.45,7.0,1.0,G,major,G major
+240,Midnights,High Infidelity,Taylor Swift,,Midnights (The Til Dawn Edition),231475.0,False,0.43,0.3,0.32,0.97,0.78,0.75,117.45,10.0,1.0,A#,major,A# major
+241,Midnights,Glitch,Taylor Swift,,Midnights (The Til Dawn Edition),148781.0,False,0.47,0.29,0.36,0.96,0.78,0.8,143.55,11.0,1.0,B,major,B major
+242,Midnights,"Would've, Could've, Should've",Taylor Swift,,Midnights (The Til Dawn Edition),260361.0,False,0.45,0.33,0.2,0.97,0.75,0.72,156.61,7.0,1.0,G,major,G major
+243,Midnights,Dear Reader,Taylor Swift,,Midnights (The Til Dawn Edition),225194.0,False,0.44,0.25,0.44,0.97,0.79,0.7,107.67,2.0,1.0,D,major,D major
+244,Midnights,Hits Different,Taylor Swift,,Midnights (The Til Dawn Edition),234466.0,True,0.44,0.31,0.31,0.97,0.76,0.49,105.47,5.0,0.0,F,minor,F minor
+245,Midnights,Snow On The Beach (More Lana Del Rey),Taylor Swift,Lana Del Rey,Midnights (The Til Dawn Edition),229942.0,True,0.45,0.29,0.35,0.98,0.77,0.4,109.96,8.0,0.0,G#,minor,G# minor
+246,Midnights,Karma (Remix),Taylor Swift,Ice Spice,Midnights (The Til Dawn Edition),201493.0,True,0.37,0.33,0.29,0.94,0.76,0.49,90.67,10.0,0.0,A#,minor,A# minor
+247,Speak Now (Taylor's Version),Mine (Taylor's Version),Taylor Swift,,Speak Now (Taylor's Version),231706.0,False,0.48,0.36,0.21,0.94,0.74,0.8,123.05,2.0,1.0,D,major,D major
+248,Speak Now (Taylor's Version),Sparks Fly (Taylor's Version),Taylor Swift,,Speak Now (Taylor's Version),261230.0,False,0.45,0.36,0.2,0.94,0.74,0.5,114.84,5.0,0.0,F,minor,F minor
+249,Speak Now (Taylor's Version),Back To December (Taylor's Version),Taylor Swift,,Speak Now (Taylor's Version),294189.0,False,0.49,0.36,0.2,0.94,0.75,0.8,139.67,2.0,1.0,D,major,D major
+250,Speak Now (Taylor's Version),Speak Now (Taylor's Version),Taylor Swift,,Speak Now (Taylor's Version),242473.0,False,0.48,0.37,0.21,0.93,0.75,0.8,120.19,7.0,1.0,G,major,G major
+251,Speak Now (Taylor's Version),Dear John (Taylor's Version),Taylor Swift,,Speak Now (Taylor's Version),405906.0,False,0.47,0.34,0.23,0.95,0.74,0.79,120.19,8.0,1.0,G#,major,G# major
+252,Speak Now (Taylor's Version),Mean (Taylor's Version),Taylor Swift,,Speak Now (Taylor's Version),238693.0,False,0.42,0.34,0.26,0.94,0.76,0.78,82.03,4.0,1.0,E,major,E major
+253,Speak Now (Taylor's Version),The Story Of Us (Taylor's Version),Taylor Swift,,Speak Now (Taylor's Version),267653.0,False,0.41,0.36,0.2,0.94,0.74,0.78,69.84,4.0,1.0,E,major,E major
+254,Speak Now (Taylor's Version),Never Grow Up (Taylor's Version),Taylor Swift,,Speak Now (Taylor's Version),292920.0,False,0.47,0.3,0.31,0.95,0.75,0.8,123.05,2.0,1.0,D,major,D major
+255,Speak Now (Taylor's Version),Enchanted (Taylor's Version),Taylor Swift,,Speak Now (Taylor's Version),353253.0,False,0.5,0.35,0.22,0.95,0.74,0.51,161.5,8.0,0.0,G#,minor,G# minor
+256,Speak Now (Taylor's Version),Better Than Revenge (Taylor's Version),Taylor Swift,,Speak Now (Taylor's Version),220306.0,False,0.46,0.36,0.21,0.94,0.75,0.8,147.66,9.0,1.0,A,major,A major
+257,Speak Now (Taylor's Version),Innocent (Taylor's Version),Taylor Swift,,Speak Now (Taylor's Version),301221.0,False,0.48,0.36,0.2,0.94,0.75,0.8,147.66,8.0,1.0,G#,major,G# major
+258,Speak Now (Taylor's Version),Haunted (Taylor's Version),Taylor Swift,,Speak Now (Taylor's Version),245413.0,False,0.49,0.36,0.21,0.95,0.75,0.81,161.5,9.0,1.0,A,major,A major
+259,Speak Now (Taylor's Version),Last Kiss (Taylor's Version),Taylor Swift,,Speak Now (Taylor's Version),369120.0,False,0.5,0.33,0.26,0.96,0.76,0.8,156.61,9.0,1.0,A,major,A major
+260,Speak Now (Taylor's Version),Long Live (Taylor's Version),Taylor Swift,,Speak Now (Taylor's Version),317960.0,False,0.45,0.36,0.22,0.94,0.74,0.79,101.33,7.0,1.0,G,major,G major
+261,Speak Now (Taylor's Version),Ours (Taylor's Version),Taylor Swift,,Speak Now (Taylor's Version),235803.0,False,0.48,0.32,0.32,0.95,0.77,0.8,156.61,7.0,1.0,G,major,G major
+262,Speak Now (Taylor's Version),Superman (Taylor's Version),Taylor Swift,,Speak Now (Taylor's Version),274945.0,False,0.5,0.34,0.25,0.95,0.74,0.8,132.51,9.0,1.0,A,major,A major
+263,Speak Now (Taylor's Version),Electric Touch (Taylor's Version) [From The Vault],Taylor Swift,Fall Out Boy,Speak Now (Taylor's Version),266466.0,False,0.39,0.36,0.18,0.96,0.73,0.8,132.51,7.0,1.0,G,major,G major
+264,Speak Now (Taylor's Version),When Emma Falls In Love (Taylor's Version) [From The Vault],Taylor Swift,,Speak Now (Taylor's Version),252385.0,False,0.47,0.34,0.25,0.96,0.75,0.8,156.61,2.0,1.0,D,major,D major
+265,Speak Now (Taylor's Version),I Can See You (Taylor's Version) [From The Vault],Taylor Swift,,Speak Now (Taylor's Version),273186.0,False,0.43,0.35,0.21,0.95,0.75,0.5,123.05,6.0,0.0,F#,minor,F# minor
+266,Speak Now (Taylor's Version),Castles Crumbling (Taylor's Version) [From The Vault],Taylor Swift,Hayley Williams,Speak Now (Taylor's Version),306062.0,False,0.48,0.31,0.29,0.97,0.76,0.75,147.66,7.0,1.0,G,major,G major
+267,Speak Now (Taylor's Version),Foolish One (Taylor's Version) [From The Vault],Taylor Swift,,Speak Now (Taylor's Version),311765.0,False,0.41,0.32,0.28,0.97,0.76,0.76,97.51,7.0,1.0,G,major,G major
+268,Speak Now (Taylor's Version),Timeless (Taylor's Version) [From The Vault],Taylor Swift,,Speak Now (Taylor's Version),321396.0,False,0.5,0.37,0.17,0.93,0.75,0.81,143.55,7.0,1.0,G,major,G major
+269,1989 (Taylor's Version),Welcome To New York (Taylor's Version),Taylor Swift,,1989 (Taylor's Version) [Deluxe],212600.0,False,0.48,0.31,0.31,0.97,0.76,0.79,117.45,7.0,1.0,G,major,G major
+270,1989 (Taylor's Version),Blank Space (Taylor's Version),Taylor Swift,,1989 (Taylor's Version) [Deluxe],231833.0,False,0.42,0.32,0.28,0.95,0.76,0.49,95.7,5.0,0.0,F,minor,F minor
+271,1989 (Taylor's Version),Style (Taylor's Version),Taylor Swift,,1989 (Taylor's Version) [Deluxe],231000.0,False,0.43,0.33,0.27,0.95,0.74,0.79,95.7,9.0,1.0,A,major,A major
+272,1989 (Taylor's Version),Out Of The Woods (Taylor's Version),Taylor Swift,,1989 (Taylor's Version) [Deluxe],235800.0,False,0.37,0.34,0.25,0.96,0.75,0.78,92.29,0.0,1.0,C,major,C major
+273,1989 (Taylor's Version),All You Had To Do Was Stay (Taylor's Version),Taylor Swift,,1989 (Taylor's Version) [Deluxe],193289.0,False,0.39,0.33,0.3,0.95,0.77,0.49,97.51,0.0,0.0,C,minor,C minor
+274,1989 (Taylor's Version),Shake It Off (Taylor's Version),Taylor Swift,,1989 (Taylor's Version) [Deluxe],219209.0,False,0.5,0.35,0.22,0.95,0.74,0.81,161.5,2.0,1.0,D,major,D major
+275,1989 (Taylor's Version),I Wish You Would (Taylor's Version),Taylor Swift,,1989 (Taylor's Version) [Deluxe],207650.0,False,0.4,0.33,0.27,0.96,0.75,0.79,117.45,0.0,1.0,C,major,C major
+276,1989 (Taylor's Version),Bad Blood (Taylor's Version),Taylor Swift,,1989 (Taylor's Version) [Deluxe],211103.0,False,0.4,0.3,0.31,0.97,0.77,0.79,112.35,11.0,1.0,B,major,B major
+277,1989 (Taylor's Version),Wildest Dreams (Taylor's Version),Taylor Swift,,1989 (Taylor's Version) [Deluxe],220433.0,False,0.41,0.32,0.26,0.96,0.75,0.49,123.05,8.0,0.0,G#,minor,G# minor
+278,1989 (Taylor's Version),How You Get The Girl (Taylor's Version),Taylor Swift,,1989 (Taylor's Version) [Deluxe],247533.0,False,0.48,0.33,0.27,0.96,0.75,0.5,161.5,5.0,0.0,F,minor,F minor
+279,1989 (Taylor's Version),This Love (Taylor's Version),Taylor Swift,,1989 (Taylor's Version) [Deluxe],250100.0,False,0.51,0.32,0.28,0.96,0.75,0.8,143.55,4.0,1.0,E,major,E major
+280,1989 (Taylor's Version),I Know Places (Taylor's Version),Taylor Swift,,1989 (Taylor's Version) [Deluxe],195700.0,False,0.38,0.33,0.28,0.96,0.75,0.78,79.51,0.0,1.0,C,major,C major
+281,1989 (Taylor's Version),Clean (Taylor's Version),Taylor Swift,,1989 (Taylor's Version) [Deluxe],271000.0,False,0.46,0.28,0.37,0.98,0.77,0.7,103.36,4.0,1.0,E,major,E major
+282,1989 (Taylor's Version),Wonderland (Taylor's Version),Taylor Swift,,1989 (Taylor's Version) [Deluxe],245566.0,False,0.45,0.31,0.28,0.97,0.76,0.49,123.05,3.0,0.0,D#,minor,D# minor
+283,1989 (Taylor's Version),You Are In Love (Taylor's Version),Taylor Swift,,1989 (Taylor's Version) [Deluxe],267389.0,False,0.42,0.32,0.27,0.96,0.76,0.77,114.84,9.0,1.0,A,major,A major
+284,1989 (Taylor's Version),New Romantics (Taylor's Version),Taylor Swift,,1989 (Taylor's Version) [Deluxe],230177.0,False,0.43,0.36,0.21,0.96,0.74,0.49,123.05,5.0,0.0,F,minor,F minor
+285,1989 (Taylor's Version),"""Slut!"" (Taylor's Version) [From The Vault]",Taylor Swift,,1989 (Taylor's Version) [Deluxe],180381.0,False,0.39,0.3,0.35,0.96,0.77,0.79,103.36,2.0,1.0,D,major,D major
+286,1989 (Taylor's Version),Say Don't Go (Taylor's Version) [From The Vault],Taylor Swift,,1989 (Taylor's Version) [Deluxe],279833.0,False,0.41,0.32,0.27,0.96,0.75,0.79,109.96,11.0,1.0,B,major,B major
+287,1989 (Taylor's Version),Now That We Don't Talk (Taylor's Version) [From The Vault],Taylor Swift,,1989 (Taylor's Version) [Deluxe],146436.0,False,0.4,0.3,0.34,0.95,0.78,0.79,109.96,4.0,1.0,E,major,E major
+288,1989 (Taylor's Version),Suburban Legends (Taylor's Version) [From The Vault],Taylor Swift,,1989 (Taylor's Version) [Deluxe],171818.0,False,0.42,0.32,0.29,0.95,0.76,0.79,117.45,0.0,1.0,C,major,C major
+289,1989 (Taylor's Version),Is It Over Now? (Taylor's Version) [From The Vault],Taylor Swift,,1989 (Taylor's Version) [Deluxe],229477.0,False,0.39,0.36,0.22,0.94,0.75,0.49,99.38,0.0,0.0,C,minor,C minor
+290,1989 (Taylor's Version),Bad Blood (Remix) [Taylor's Version],Taylor Swift,Kendrick Lamar,1989 (Taylor's Version) [Deluxe],199773.0,False,0.43,0.31,0.31,0.96,0.76,0.78,84.72,11.0,1.0,B,major,B major
+291,THE TORTURED POETS DEPARTMENT,Fortnight,Taylor Swift,Post Malone,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,228965.0,False,0.43,0.3,0.36,0.97,0.77,0.74,95.7,11.0,1.0,B,major,B major
+292,THE TORTURED POETS DEPARTMENT,The Tortured Poets Department,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,293048.0,True,0.43,0.31,0.3,0.97,0.76,0.48,109.96,0.0,0.0,C,minor,C minor
+293,THE TORTURED POETS DEPARTMENT,My Boy Only Breaks His Favorite Toys,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,203801.0,False,0.39,0.32,0.3,0.98,0.76,0.75,97.51,0.0,1.0,C,major,C major
+294,THE TORTURED POETS DEPARTMENT,Down Bad,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,261228.0,True,0.49,0.28,0.39,0.96,0.78,0.75,161.5,11.0,1.0,B,major,B major
+295,THE TORTURED POETS DEPARTMENT,"So Long, London",Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,262974.0,False,0.39,0.28,0.38,0.97,0.78,0.7,117.45,1.0,1.0,C#,major,C# major
+296,THE TORTURED POETS DEPARTMENT,But Daddy I Love Him,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,340428.0,True,0.42,0.35,0.23,0.95,0.75,0.79,105.47,4.0,1.0,E,major,E major
+297,THE TORTURED POETS DEPARTMENT,Fresh Out The Slammer,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,210789.0,False,0.4,0.33,0.22,0.97,0.75,0.78,87.59,9.0,1.0,A,major,A major
+298,THE TORTURED POETS DEPARTMENT,Florida!!!,Taylor Swift,Florence + The Machine,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,215463.0,True,0.47,0.34,0.23,0.95,0.75,0.8,152.0,7.0,1.0,G,major,G major
+299,THE TORTURED POETS DEPARTMENT,Guilty As Sin?,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,254365.0,False,0.46,0.34,0.25,0.95,0.75,0.78,95.7,2.0,1.0,D,major,D major
+300,THE TORTURED POETS DEPARTMENT,Who's Afraid Of Little Old Me?,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,334084.0,False,0.4,0.29,0.35,0.97,0.77,0.77,123.05,9.0,1.0,A,major,A major
+301,THE TORTURED POETS DEPARTMENT,I Can Fix Him (No Really I Can),Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,156297.0,False,0.45,0.27,0.39,0.96,0.79,0.79,123.05,9.0,1.0,A,major,A major
+302,THE TORTURED POETS DEPARTMENT,loml,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,277156.0,True,0.41,0.26,0.42,0.98,0.8,0.65,117.45,0.0,1.0,C,major,C major
+303,THE TORTURED POETS DEPARTMENT,I Can Do It With A Broken Heart,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,218004.0,True,0.43,0.33,0.26,0.95,0.76,0.8,129.2,0.0,1.0,C,major,C major
+304,THE TORTURED POETS DEPARTMENT,The Smallest Man Who Ever Lived,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,245541.0,True,0.41,0.29,0.31,0.97,0.79,0.42,95.7,5.0,0.0,F,minor,F minor
+305,THE TORTURED POETS DEPARTMENT,The Alchemy,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,196900.0,False,0.45,0.33,0.28,0.96,0.75,0.47,99.38,0.0,0.0,C,minor,C minor
+306,THE TORTURED POETS DEPARTMENT,Clara Bow,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,216662.0,False,0.43,0.3,0.31,0.96,0.77,0.71,103.36,2.0,1.0,D,major,D major
+307,THE TORTURED POETS DEPARTMENT,The Black Dog,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,238857.0,True,0.46,0.31,0.3,0.95,0.77,0.77,152.0,0.0,1.0,C,major,C major
+308,THE TORTURED POETS DEPARTMENT,imgonnagetyouback,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,222072.0,False,0.42,0.32,0.29,0.95,0.76,0.79,109.96,9.0,1.0,A,major,A major
+309,THE TORTURED POETS DEPARTMENT,The Albatross,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,183878.0,False,0.37,0.3,0.3,0.97,0.77,0.72,112.35,6.0,1.0,F#,major,F# major
+310,THE TORTURED POETS DEPARTMENT,Chloe Or Sam Or Sophia Or Marcus,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,213281.0,False,0.4,0.28,0.36,0.97,0.78,0.71,95.7,4.0,1.0,E,major,E major
+311,THE TORTURED POETS DEPARTMENT,How Did It End?,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,238706.0,False,0.46,0.29,0.29,0.98,0.77,0.7,143.55,0.0,1.0,C,major,C major
+312,THE TORTURED POETS DEPARTMENT,So High School,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,228800.0,False,0.4,0.35,0.22,0.95,0.75,0.79,117.45,7.0,1.0,G,major,G major
+313,THE TORTURED POETS DEPARTMENT,I Hate It Here,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,243875.0,False,0.36,0.31,0.3,0.96,0.76,0.77,86.13,2.0,1.0,D,major,D major
+314,THE TORTURED POETS DEPARTMENT,thanK you aIMee,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,263817.0,True,0.36,0.32,0.28,0.96,0.76,0.78,95.7,2.0,1.0,D,major,D major
+315,THE TORTURED POETS DEPARTMENT,I Look In People's Windows,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,131907.0,False,0.43,0.29,0.34,0.95,0.77,0.48,89.1,4.0,0.0,E,minor,E minor
+316,THE TORTURED POETS DEPARTMENT,The Prophecy,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,249807.0,False,0.43,0.29,0.33,0.96,0.78,0.5,132.51,10.0,0.0,A#,minor,A# minor
+317,THE TORTURED POETS DEPARTMENT,Cassandra,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,240205.0,True,0.47,0.3,0.29,0.97,0.77,0.42,143.55,0.0,0.0,C,minor,C minor
+318,THE TORTURED POETS DEPARTMENT,Peter,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,283957.0,False,0.43,0.32,0.21,0.96,0.75,0.77,132.51,0.0,1.0,C,major,C major
+319,THE TORTURED POETS DEPARTMENT,The Bolter,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,238241.0,True,0.4,0.31,0.29,0.97,0.76,0.76,92.29,0.0,1.0,C,major,C major
+320,THE TORTURED POETS DEPARTMENT,Robin,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,240893.0,False,0.44,0.27,0.37,0.98,0.78,0.65,136.0,4.0,1.0,E,major,E major
+321,THE TORTURED POETS DEPARTMENT,The Manuscript,Taylor Swift,,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,224743.0,False,0.39,0.28,0.3,0.98,0.77,0.68,95.7,5.0,1.0,F,major,F major
+322,The Life of a Showgirl,The Fate Of Ophelia,Taylor Swift,,The Life of a Showgirl,226073.0,False,0.58,0.31,0.28,0.97,0.76,0.49,123.05,9.0,0.0,A,minor,A minor
+323,The Life of a Showgirl,Elizabeth Taylor,Taylor Swift,,The Life of a Showgirl,208291.0,False,0.57,0.33,0.24,0.97,0.75,0.8,166.71,2.0,1.0,D,major,D major
+324,The Life of a Showgirl,Opalite,Taylor Swift,,The Life of a Showgirl,235355.0,False,0.59,0.33,0.26,0.96,0.76,0.8,126.05,9.0,1.0,A,major,A major
+325,The Life of a Showgirl,Father Figure,Taylor Swift,,The Life of a Showgirl,212777.0,True,0.49,0.31,0.3,0.97,0.77,0.77,92.29,9.0,1.0,A,major,A major
+326,The Life of a Showgirl,Eldest Daughter,Taylor Swift,,The Life of a Showgirl,246356.0,True,0.52,0.32,0.3,0.95,0.77,0.8,152.0,7.0,1.0,G,major,G major
+327,The Life of a Showgirl,Ruin The Friendship,Taylor Swift,,The Life of a Showgirl,220564.0,False,0.49,0.31,0.3,0.97,0.77,0.8,156.61,7.0,1.0,G,major,G major
+328,The Life of a Showgirl,Actually Romantic,Taylor Swift,,The Life of a Showgirl,163699.0,True,0.41,0.31,0.28,0.96,0.77,0.48,84.72,4.0,0.0,E,minor,E minor
+329,The Life of a Showgirl,Wi$h Li$t,Taylor Swift,,The Life of a Showgirl,207349.0,True,0.52,0.28,0.37,0.97,0.78,0.75,152.0,0.0,1.0,C,major,C major
+330,The Life of a Showgirl,Wood,Taylor Swift,,The Life of a Showgirl,150517.0,True,0.46,0.3,0.32,0.96,0.78,0.48,99.38,7.0,0.0,G,minor,G minor
+331,The Life of a Showgirl,CANCELLED!,Taylor Swift,,The Life of a Showgirl,211498.0,True,0.46,0.3,0.31,0.97,0.77,0.76,89.1,9.0,1.0,A,major,A major
+332,The Life of a Showgirl,Honey,Taylor Swift,,The Life of a Showgirl,181534.0,True,0.57,0.3,0.32,0.97,0.77,0.8,161.5,2.0,1.0,D,major,D major
+333,The Life of a Showgirl,The Life Of A Showgirl,Taylor Swift,Sabrina Carpenter,The Life of a Showgirl,241766.0,True,0.56,0.3,0.3,0.97,0.76,0.8,172.27,7.0,1.0,G,major,G major
+334,Midnights,You're Losing Me (From The Vault),Taylor Swift,,You're Losing Me (From The Vault),277831.0,False,0.41,0.25,0.46,0.98,0.8,0.66,103.36,0.0,1.0,C,major,C major
+335,,All Of The Girls You Loved Before,Taylor Swift,,All Of The Girls You Loved Before,221407.0,False,0.43,0.27,0.36,0.98,0.78,0.68,95.7,2.0,1.0,D,major,D major
+336,,American Girl,,,,,,,,,,,,,,,,,
+337,,Bad Blood (Remix),Taylor Swift,Kendrick Lamar,Bad Blood,200106.0,False,0.51,0.3,0.32,0.97,0.77,0.81,172.27,11.0,1.0,B,major,B major
+338,,Beautiful Ghosts,Taylor Swift,,Cats: Highlights From The Motion Picture Soundtrack,261053.0,False,0.43,0.33,0.24,0.94,0.75,0.8,143.55,9.0,1.0,A,major,A major
+339,,Carolina,Taylor Swift,,Carolina (From The Motion Picture “Where The Crawdads Sing”),264438.0,False,0.42,0.27,0.41,0.97,0.79,0.71,123.05,11.0,1.0,B,major,B major
+340,,Christmas Tree Farm,Taylor Swift,,Christmas Tree Farm,228026.0,False,0.46,0.35,0.24,0.94,0.74,0.8,136.0,11.0,1.0,B,major,B major
+341,,Crazier,Taylor Swift,,Hannah Montana The Movie,191946.0,False,0.45,0.35,0.17,0.95,0.74,0.8,132.51,6.0,1.0,F#,major,F# major
+342,,Eyes Open,Taylor Swift,,The Hunger Games: Songs From District 12 And Beyond,244586.0,False,0.44,0.32,0.29,0.95,0.76,0.8,136.0,7.0,1.0,G,major,G major
+343,,Eyes Open (Taylor's Version),Taylor Swift,,The More Red (Taylor’s Version) Chapter,243264.0,False,0.43,0.35,0.28,0.94,0.76,0.8,136.0,9.0,1.0,A,major,A major
+344,,I Don't Wanna Live Forever,ZAYN,Taylor Swift,Fifty Shades Darker (Original Motion Picture Soundtrack),245653.0,False,0.43,0.28,0.4,0.97,0.79,0.44,117.45,0.0,0.0,C,minor,C minor
+345,,If This Was A Movie (Taylor's Version),Taylor Swift,,The More Fearless (Taylor’s Version) Chapter,237022.0,False,0.48,0.37,0.2,0.94,0.75,0.8,147.66,8.0,1.0,G#,major,G# major
+346,,Lover (Remix),Taylor Swift,Shawn Mendes,Lover (Remix) [feat. Shawn Mendes],221306.0,False,0.41,0.34,0.22,0.96,0.76,0.77,109.96,7.0,1.0,G,major,G major
+347,,Only The Young,Taylor Swift,,Only The Young (Featured in Miss Americana),157507.0,False,0.41,0.37,0.2,0.93,0.73,0.5,126.05,10.0,0.0,A#,minor,A# minor
+348,,Ronan,Taylor Swift,,Ronan,265306.0,False,0.4,0.27,0.29,0.98,0.79,0.68,58.07,0.0,1.0,C,major,C major
+349,,Safe & Sound,Taylor Swift,The Civil Wars,The Hunger Games: Songs From District 12 And Beyond,240066.0,False,0.49,0.28,0.35,0.98,0.78,0.68,143.55,11.0,1.0,B,major,B major
+350,,Safe & Sound (Taylor's Version),Taylor Swift,"Joy Williams, John Paul White",The More Red (Taylor’s Version) Chapter,239668.0,False,0.48,0.29,0.36,0.97,0.77,0.7,143.55,11.0,1.0,B,major,B major
+351,,September,Taylor Swift,,Spotify Singles,187823.0,False,0.43,0.34,0.23,0.96,0.76,0.45,107.67,6.0,0.0,F#,minor,F# minor
+352,,Sweeter Than Fiction,Taylor Swift,,Sweeter Than Fiction,237640.0,False,0.49,0.34,0.29,0.96,0.77,0.5,136.0,1.0,0.0,C#,minor,C# minor
+353,,Today Was A Fairytale,Taylor Swift,,Today Was A Fairytale,242480.0,False,0.48,0.36,0.19,0.95,0.75,0.81,156.61,7.0,1.0,G,major,G major
+354,,Babe,Sugarland,Taylor Swift,Bigger,215106.0,False,0.49,0.33,0.24,0.95,0.75,0.51,172.27,11.0,0.0,B,minor,B minor
+355,,Birch,Big Red Machine,Taylor Swift,How Long Do You Think It's Gonna Last?,330066.0,True,0.45,0.28,0.37,0.97,0.79,0.37,123.05,0.0,0.0,C,minor,C minor
+356,,Both Of Us,B.o.B,Taylor Swift,Strange Clouds,216120.0,True,0.43,0.32,0.3,0.95,0.77,0.8,126.05,11.0,1.0,B,major,B major
+357,,Gasoline (Remix),HAIM,Taylor Swift,Women In Music Pt. III,193373.0,False,0.48,0.31,0.3,0.96,0.76,0.79,129.2,11.0,1.0,B,major,B major
+358,,Half Of My Heart,,,,,,,,,,,,,,,,,
+359,,Highway Don't Care,Tim McGraw,"Taylor Swift, Keith Urban",Two Lanes Of Freedom,276880.0,False,0.41,0.35,0.2,0.96,0.74,0.8,156.61,2.0,1.0,D,major,D major
+360,,Renegade,Big Red Machine,Taylor Swift,How Long Do You Think It's Gonna Last?,254466.0,True,0.4,0.3,0.31,0.97,0.78,0.71,84.72,2.0,1.0,D,major,D major
+361,,The Alcott,The National,Taylor Swift,First Two Pages of Frankenstein,267773.0,False,0.42,0.3,0.33,0.97,0.77,0.75,136.0,0.0,1.0,C,major,C major
+362,,The Joker And The Queen,Ed Sheeran,Taylor Swift,The Joker And The Queen (feat. Taylor Swift),185422.0,False,0.38,0.28,0.29,0.98,0.77,0.69,152.0,0.0,1.0,C,major,C major
+363,,Three Sad Virgins,,,,,,,,,,,,,,,,,
+364,,Two Is Better Than One,BOYS LIKE GIRLS,Taylor Swift,Love Drunk,242840.0,False,0.48,0.34,0.22,0.96,0.75,0.8,129.2,7.0,1.0,G,major,G major
+365,,us.,Gracie Abrams,Taylor Swift,The Secret of Us,242666.0,True,0.46,0.36,0.22,0.95,0.74,0.8,136.0,7.0,1.0,G,major,G major
+366,,"1 step forward, 3 steps back",Olivia Rodrigo,,SOUR,163586.0,True,0.5,0.27,0.35,0.98,0.79,0.69,172.27,2.0,1.0,D,major,D major
+367,,Bein' With My Baby,Shea Fisher,,Shea,238640.0,False,,,,,,,,,,,,
+368,,Best Days Of Your Life,Kellie Pickler,,Kellie Pickler (Deluxe Version),226800.0,False,0.48,0.37,0.19,0.95,0.75,0.8,129.2,9.0,1.0,A,major,A major
+369,,Better Man,Little Big Town,,The Breaker,263120.0,False,0.5,0.35,0.21,0.95,0.74,0.5,143.55,0.0,0.0,C,minor,C minor
+370,,deja vu,Olivia Rodrigo,,SOUR,215506.0,True,0.48,0.31,0.3,0.98,0.77,0.79,178.21,1.0,1.0,C#,major,C# major
+371,,This Is Really Happening,Britni Hoover,,Country Strong,210533.0,False,,,,,,,,,,,,
+372,,This Is What You Came For,Calvin Harris,Rihanna,This Is What You Came For,221900.0,False,0.47,0.32,0.31,0.95,0.77,0.79,123.05,0.0,1.0,C,major,C major
+373,,TMZ,"""Weird Al"" Yankovic",,Alpocalypse,219727.0,False,0.45,0.39,0.13,0.94,0.74,0.5,147.66,3.0,0.0,D#,minor,D# minor
+374,,You'll Always Find Your Way Back Home,Hannah Montana,,Hannah Montana The Movie,224186.0,False,0.46,0.38,0.17,0.93,0.75,0.51,152.0,10.0,0.0,A#,minor,A# minor
