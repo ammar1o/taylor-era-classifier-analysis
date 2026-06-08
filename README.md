@@ -20,7 +20,7 @@ Here's the worfklow:
 
 ## How to use?
 
-Download the Jupyter notebook and "taytay_clean" and run the code on the IDE of your choice!
+Download the Jupyter notebook and "taytay_clean" and run the code on the IDE of your choice! If anything doesn't make sense in the notebook, please check the LinkedIn article -- that's where the rationale is as well.
 
 ## Links
 - Source files: [Jake Thompson's original taylor repo](https://github.com/wjakethompson/taylor/tree/main)
