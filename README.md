@@ -24,7 +24,7 @@ Download the Jupyter notebook and "taytay_clean" and run the code on the IDE of 
 
 ## Links
 - Source files: [Jake Thompson's original taylor repo](https://github.com/wjakethompson/taylor/tree/main)
-- More details on methodology and results: [the Linkedin article](LINK)
+- More details on methodology and results: [the Linkedin article](https://www.linkedin.com/pulse/has-old-taylor-died-knn-classifiers-ammar-yasser-uphff/)
 
  ## VARIABLES
 - Track name: the name of the song — Nominal
